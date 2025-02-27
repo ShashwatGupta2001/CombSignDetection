@@ -1,4 +1,4 @@
-# CombSignDetection
+# CombSign Detection
 Code and Examples for our work on Comb-Sign Detection.
 
 Anonymised sample Niftii files are contained in examples folder
